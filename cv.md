@@ -1,6 +1,5 @@
 # Levan Kuprava
 ## Junior Frontend Developer
-
 ---
 
 ## Contact information:
@@ -11,7 +10,6 @@
 **GitHub:** [LevanKuprava](https://github.com/LevanKuprava)<br>
 
 ---
- 
 ## Skills
 
 * HTML
@@ -20,7 +18,6 @@
 * Git/GitHub
 
 ---
-
 ## Languages
 
 * **English** - B1
@@ -28,7 +25,6 @@
 * **Georgian** - native speaker.
 
 ---
-
 ## Education
  University of Baltic State Technical University "Voenmeh" D.F. Ustinov 
    *Bachelor of Science in Economic* __2014 - 2018__<br>
